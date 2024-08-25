@@ -19,3 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smriti-pvn&show_icons=true&locale=en&layout=compact" alt="smriti-pvn" /></p>
 
+[![smriti-pvn's GitHub | Stats](https://stats.quira.sh/smriti-pvn/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=smriti-pvn)
+[![smriti-pvn's GitHub | Languages Over Time](https://stats.quira.sh/smriti-pvn/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=smriti-pvn)
