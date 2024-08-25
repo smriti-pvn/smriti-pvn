@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smriti Poovannan</h1>
-<h3 align="center">I'm an experienced front-end developer and a recent B.S. HCI Honors graduate from NJIT.</h3>
+<h3 align="center">I'm an experienced front-end developer and a recent B.S. HCI Honors graduate from NJIT!</h3>
 
 - 🔭 I’m currently working on [A World Time API App](https://github.com/smriti-pvn/WorldTimeAPI)
 
